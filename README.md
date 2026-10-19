@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JARVIS Voice Assistant
 
 An Android voice assistant built with Kotlin, Gemini Live, on-device voice components, accessibility automation, screen capture, and a native Android UI.
@@ -102,3 +103,7 @@ The certificate fingerprint must be calculated from the same key used to sign th
 - C++ JNI currently provides command normalization only.
 - Build requires Android SDK, NDK, CMake 3.22.1, and Gradle dependency access for Chaquopy.
 - A complete Android build and on-device integration test is still required before treating this migration as production-ready.
+=======
+# Jarvis
+Hello 
+>>>>>>> 9855edc847b087e21cf8f28cc5dbcbd0ca80b9a6
