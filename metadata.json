@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis Assistant",
+  "description": "Futuristic AI Voice & Automation Assistant with Gemini Live, interactive Orb visualizer, memory engine, and device task HUD.",
+  "version": "1.8.7",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

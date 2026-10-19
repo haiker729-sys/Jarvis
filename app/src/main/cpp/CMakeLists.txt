@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.22.1)
-project(jarvis_native LANGUAGES CXX)
-add_library(jarvis_native SHARED native_engine.cpp)
-find_library(log-lib log)
-target_link_libraries(jarvis_native ${log-lib})
-target_compile_features(jarvis_native PRIVATE cxx_std_17)
